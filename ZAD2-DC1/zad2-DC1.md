@@ -1,5 +1,9 @@
 # DC-1
 
+**Repozytorium GitHub:** [https://github.com/malak4822/Bezpiecze-stwo](https://github.com/malak4822/Bezpiecze-stwo)
+
+---
+
 ## 1. Rozpoznanie 
 
 Pierwszym etapem było zidentyfikowanie adresu IP maszyny w sieci lokalnej oraz sprawdzenie otwartych portów.

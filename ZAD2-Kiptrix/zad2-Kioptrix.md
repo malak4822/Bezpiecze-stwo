@@ -1,5 +1,9 @@
 # 1. Zadanie 2 - Kioptrix Lvl 1
 
+**Repozytorium GitHub:** [https://github.com/malak4822/Bezpiecze-stwo](https://github.com/malak4822/Bezpiecze-stwo)
+
+---
+
 ## Cel 1 - Znaleźć Kioptrix'a
 
  Po ustawieniu obydwu maszyn, Kali linuxa oraz Kioptrix’a ustawiam obydwie sieci na wewnętrzne, tak żeby maszyny się widziały i żebym nie widział niepotrzebnej reszty urządzeń w sieci. 
